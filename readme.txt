@@ -49,3 +49,18 @@ describe('#average', () => {
   })
 })
 ```
+# Integrate CI @ https://travis-ci.com/
+
+# Create .travis.yml for CI
+language: node_js
+node_js:
+    - "8"
+    - "7"
+    - "6"
+    
+# Add test script for CI
+...
+    "scripts": {
+        "test": "mocha "
+    },
+...
