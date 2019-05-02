@@ -1,0 +1,13 @@
+{
+  "name": "mocha-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/navibator/mocha-test.git",
+  "author": "Allen Ni <allen.latitude@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "should": "^13.2.3"
+  }
+}
