@@ -5,6 +5,9 @@
   "repository": "https://github.com/navibator/mocha-test.git",
   "author": "Allen Ni <allen.latitude@gmail.com>",
   "license": "MIT",
+  "scripts": {
+        "test": "mocha "
+  },
   "dependencies": {},
   "devDependencies": {
     "mocha": "^6.1.4",
