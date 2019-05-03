@@ -49,7 +49,11 @@ describe('#average', () => {
   })
 })
 ```
-# Integrate CI @ https://travis-ci.com/
+# Integrate CI(Continuous Integration) @ https://travis-ci.com/
+# 1. Activate your GitHub repositories
+# 2. Add a .travis.yml file to your repository
+# 3. Trigger your first build
+
 
 # Create .travis.yml for CI
 language: node_js
